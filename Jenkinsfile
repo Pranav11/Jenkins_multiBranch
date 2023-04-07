@@ -17,4 +17,7 @@ $ git add .
 $ git commit -m "jenkinsfile"
 
 $ git checkout loans
+$ ls
+$ vim jenkinsfile
+( Lets make it only two stages)
 
